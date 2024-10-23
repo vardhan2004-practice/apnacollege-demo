@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first repository
 
-AUTHOR : P VISHNU VARDHAN
+AUTHOR : P VISHNU VARDHAN ( APNA COLLEGE_)
